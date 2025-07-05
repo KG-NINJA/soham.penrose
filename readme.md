@@ -1,6 +1,13 @@
-## 🎮 Soham Interviewing Simulator - 挑戦ログ / Challenge Log
+# 🎮 Soham Interviewing Simulator - 挑戦ログ / Challenge Log
 
-[result]
+## 🧭 概要 / Overview
+
+私は、AIと戦略的判断を駆使し、仮想面接ゲーム「[Soham Interviewing Simulator](https://soham.penrose.com/)」に挑戦。  
+このゲームは、技術力だけでなく、「感情の機微・対応力・交渉スキル」をリアルに問うものです。
+
+---
+
+## 📊 結果 / Results
 
 | 項目 / Item                         | 内容 / Details                                                       |
 |------------------------------------|----------------------------------------------------------------------|
@@ -13,7 +20,7 @@
 
 ---
 
-[Icon.com Offer Chat]
+## 💬 印象的なやりとり / Key Interaction
 
 > 💬 **$140,000の仮想オファーを数秒差で逃す、リアルな面接シミュレーター体験。**  
 > 面接というより「交渉」だった。AIを活用しながら、相手の感触を見て判断し、場面ごとに態度を調整。  
@@ -25,21 +32,20 @@
 
 ---
 
-### 🧠 所感 / Reflections
+## 🧠 所感 / Reflections
 
 - 💡 **冗談が通じない相手・AI使用を嫌う面接官**に即時対応  
 - 💡 現実の就活と同様に、**「熱量・態度・誠実さ」が問われる**  
-- 💡 この体験は、**私の判断力・交渉力・感受性**の証明です
+- 💡 この体験は、**私の判断力・交渉力・感受性**の証明です  
+
+This experience proved my ability to:
+- 👂 Read the room and respond to subtle emotional cues  
+- 🤝 Handle rejection, turn around difficult conversations  
+- 🧠 Combine human empathy with AI support effectively  
 
 ---
 
-📌 [Play here / プレイはこちらから](https://soham.penrose.com/)
+## 📸 スクリーンショット集 / Screenshots
 
-🧪 仮想空間でここまでリアルな駆け引きが必要だとは…  
-🧠 この記録は、私の**"人間らしさを活かすAI活用"**の成果のひとつです。
-
----
-
-## 🖼 スクリーンショット集 / Screenshots
-
-
+本シミュレーターでの挑戦の様子を1枚の画像にまとめました。  
+交渉、オファー獲得、タイムアウト直前の判断までを含む、
