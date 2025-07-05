@@ -14,14 +14,22 @@ More than a game, it demanded **negotiation, adaptability, emotional intelligenc
 
 ---
 
-項目 / Item	内容 / Details
-💰 最高オファー額 / Top Virtual Offer	$140,000 – from Icon.com (missed confirmation by seconds)
-💼 確定オファー / Finalized Offer	$110,000 – accepted before timeout
-🦐 shrampオファー / Offer from Shramp	shramp – “Notoriously harder than Ramp, but offer achieved!”
-📨 応募社数 / Applications Sent	7社 / 7 companies
-✅ オファー獲得 / Offers Received	2社 / 2 companies (Icon.com – finalized in time, shramp – offer achieved)
-📈 成功率 / Success Rate	29% (including rejections, humor fails, and tough situations)
-🏆 総合順位 / Global Rank	第34位 / Overall Rank #34
+## 🏆 オファー獲得実績 / Offers Received
+
+| 項目 / Item                         | 内容 / Details                                                         |
+|--------------------------------------|------------------------------------------------------------------------|
+| 💰 最高オファー額 / Top Virtual Offer | $140,000 – from Icon.com (missed confirmation by seconds)               |
+| 💼 確定オファー / Finalized Offer     | $110,000 – accepted before timeout                                     |
+| 🦐 shrampオファー / Offer from Shramp | shramp – “Notoriously harder than Ramp, but offer achieved!”           |
+| 📨 応募社数 / Applications Sent       | 7社 / 7 companies                                                      |
+| ✅ オファー獲得 / Offers Received     | 2社 / 2 companies (Icon.com – finalized in time, shramp – offer achieved) |
+| 📈 成功率 / Success Rate              | 29% (including rejections, humor fails, and tough situations)           |
+| 🏆 総合順位 / Global Rank             | 第34位 / Overall Rank #34                                              |
+
+> 🦐 **shramp（SNSでも「Rampより難しい」と話題のラスボス級）からもオファー獲得！ even received an offer from a final boss level player (who is said to be "more difficult than Ramp" on social media)
+> AI（Devin）は門前払いされても、GPTと共闘した“人間力＋AI戦略”で、“倒せないボス”を突破した体験です。**
+
+
 
 
 ## 💬 面接ログ抜粋 / Interview Highlights
