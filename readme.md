@@ -1,6 +1,6 @@
 ## 🎮 Soham Interviewing Simulator - 挑戦ログ / Challenge Log
 
-![result](./assets/soham_result_summary.png)
+![result]
 
 | 項目 / Item                         | 内容 / Details                                                       |
 |------------------------------------|----------------------------------------------------------------------|
@@ -13,7 +13,7 @@
 
 ---
 
-![Icon.com Offer Chat](./assets/soham_offer_iconchat.png)
+![Icon.com Offer Chat]
 
 > 💬 **$140,000の仮想オファーを数秒差で逃す、リアルな面接シミュレーター体験。**  
 > 面接というより「交渉」だった。AIを活用しながら、相手の感触を見て判断し、場面ごとに態度を調整。  
@@ -42,6 +42,4 @@
 
 ## 🖼 スクリーンショット集 / Screenshots
 
-| 面接応答 & ブラックリスト | 最終スコア | Icon社との内定交渉 |
-|------------------------|-------------|------------------|
-| ![](./assets/soham_blacklist.png) | ![](./assets/soham_result_summary.png) | ![](./assets/soham_offer_iconchat.png) |
+
