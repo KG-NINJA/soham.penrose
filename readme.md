@@ -14,18 +14,15 @@ More than a game, it demanded **negotiation, adaptability, emotional intelligenc
 
 ---
 
-## 📊 実績 / Results
+項目 / Item	内容 / Details
+💰 最高オファー額 / Top Virtual Offer	$140,000 – from Icon.com (missed confirmation by seconds)
+💼 確定オファー / Finalized Offer	$110,000 – accepted before timeout
+🦐 shrampオファー / Offer from Shramp	shramp – “Notoriously harder than Ramp, but offer achieved!”
+📨 応募社数 / Applications Sent	7社 / 7 companies
+✅ オファー獲得 / Offers Received	2社 / 2 companies (Icon.com – finalized in time, shramp – offer achieved)
+📈 成功率 / Success Rate	29% (including rejections, humor fails, and tough situations)
+🏆 総合順位 / Global Rank	第34位 / Overall Rank #34
 
-| 項目 / Item                         | 内容 / Details                                                       |
-|------------------------------------|----------------------------------------------------------------------|
-| 💰 最高オファー額 / Top Virtual Offer | **$140,000** – from Icon.com _(missed confirmation by seconds)_        |
-| 💼 確定オファー / Finalized Offer   | **$110,000** – accepted before timeout                              |
-| 📨 応募社数 / Applications Sent      | **7社 / 7 companies**                                                |
-| ✅ オファー獲得 / Offers Received    | **1社 / 1 company** (Icon.com – finalized in time)                   |
-| 📈 成功率 / Success Rate            | **14%** _(including rejections, humor fails, and tough situations)_  |
-| 🏆 総合順位 / Global Rank           | **第34位 / Overall Rank #34**                                        |
-
----
 
 ## 💬 面接ログ抜粋 / Interview Highlights
 
