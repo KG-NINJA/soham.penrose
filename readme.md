@@ -49,4 +49,4 @@ This experience proved my ability to:
 
 本シミュレーターでの挑戦の様子を1枚の画像にまとめました。  
 交渉、オファー獲得、タイムアウト直前の判断までを含む、
-soham_interview_log_combined.jpg
+![Soham Interviewing Simulator Challenge Log Screenshot](./soham_interview_log_combined.jpg)
