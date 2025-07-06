@@ -73,3 +73,29 @@ More than a game, it demanded **negotiation, adaptability, emotional intelligenc
 
 🧠 Written by [KG-NINJA](https://github.com/KG-NINJA)  
 🏷️ #KGNINJA #AI就活 #SohamChallenge
+
+😅 勘違いと、その先に見えたもの / Misunderstanding Turned into Message
+実は私は、このゲームを最初「正統派面接シミュレーター」だと思い、
+1社ごと丁寧に向き合いながらプレイしていました。
+
+ところが後から知ったのは、「8社同時に騙して報酬を稼ぎまくったSoham Parekh」という実在の人物をモチーフにした風刺ゲームだったという事実。
+
+つまりこのゲームの本質は――
+“誠実さが報われない現代就活” への皮肉。
+
+それでも私は、誠実にプレイして34位。
+そしてshrampのような“ラスボス”からもオファーを獲得しました。
+
+▶️ 誠実すぎるプレイが、逆に「裏技」だったのかもしれない。
+
+I genuinely believed this was a straightforward interview simulator.
+So I took my time, treated each company with respect, and focused on meaningful negotiation.
+
+Later, I realized the whole thing was a satire — inspired by Soham Parekh, who allegedly juggled 8 jobs using AI to scam startups.
+
+But even in a game designed to mock modern hiring chaos,
+I chose to play it real.
+
+🎯 And somehow, ranked #34 globally with only one job offer — won fair and square.
+
+Maybe honesty… is the ultimate cheat code.
