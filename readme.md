@@ -99,3 +99,9 @@ I chose to play it real.
 🎯 And somehow, ranked #34 globally with only one job offer — won fair and square.
 
 Maybe honesty… is the ultimate cheat code.
+
+I assumed that juggling multiple startup offers was just “how the game is played” in the US.
+But honestly, that approach isn't for me — and still, I reached #34 with just one honest offer.
+That gave me confidence: there is still a place for integrity, even in a game like this.
+
+
